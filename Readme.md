@@ -1,6 +1,6 @@
 # Личный проект «Нёрдс»
 
-* Студент: [Николь Вишневская](https://up.htmlacademy.ru/htmlcss/26/user/649641).
+* Студент: [Ника Титаренко](https://up.htmlacademy.ru/htmlcss/26/user/649641).
 * Наставник: [Наталья Налимова](https://htmlacademy.ru/profile/tuetfe).
 
 ---
